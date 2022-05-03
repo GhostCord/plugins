@@ -1,15 +1,17 @@
-# `PROJECT-NAME-HERE`
+# `GhostCord Plugins`
 
-Project description...
+An external plugin module for the Ghostcord framework. You can use this along side the core package to add extra utilties. 
 
 ## `Installation`
 
-here
+soon
 
 ## `Guide`
 
-here
+soon
 
 ## Links
 
-here
+[Community Support](https://discord.gg/73KvNCABPc)
+
+[Documentation]()
